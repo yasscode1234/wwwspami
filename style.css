@@ -52,7 +52,7 @@ nav a:hover {
 .accueil {
     height: 70vh;
     background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), 
-                url('https://tse4.mm.bing.net/th/id/OIP.wy2B0QLCfdt_IUH0B-L-pQHaEK?dpr=2&pid=ImgDetMain&o=7&rm=3') center/cover;
+                url('test/sch.webp') center/cover;
     display: flex;
     align-items: center;
     justify-content: center;
